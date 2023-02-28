@@ -1,3 +1,3 @@
 void main(){
-  print("hii rosterg");
+  print("hellow word")
 }
